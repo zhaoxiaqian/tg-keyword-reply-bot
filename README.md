@@ -94,6 +94,7 @@ servicelist - 查看机器人功能列表
 - [古博VPS](https://t.me/guboorg) 200元
 - [LaN](https://t.me/BGdfd) 140元
 - [小壹](https://t.me/fuqianghome) 100元
+- [河南郑州交流群](https://t.me/hnzzs)  88元
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot?ref=badge_large)
